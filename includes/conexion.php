@@ -2,7 +2,7 @@
 
 //Conexion a la bd
 $server="localhost";
-$username="root";
+$username="MigueElPuto";
 $password="";
 $basededatos="blog";
 
