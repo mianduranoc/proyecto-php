@@ -2,7 +2,7 @@
         <div class="clearfix"></div>
         <!--Pie de pagina-->        
         <footer id="pie">
-            <p>El Migue&copy; 2018</p>
+            <p> Buenas noches Migue&copy;</p>
         </footer>
     </body>
 </html>
