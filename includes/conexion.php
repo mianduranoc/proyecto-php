@@ -2,8 +2,8 @@
 
 //Conexion a la bd
 $server="localhost";
-$username="gps";
-$password="Admin12345";
+$username="root";
+$password="";
 $basededatos="blog";
 
 $db=mysqli_connect($server, $username, $password, $basededatos);
