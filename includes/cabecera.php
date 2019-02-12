@@ -5,7 +5,7 @@
 <html lang="es">
     <head>
         <meta charset="utf-8"/>
-        <title>Blog de Videojuegos</title>
+        <title>Hola</title>
         <link type="text/css" href="./assets/css/style.css" rel="stylesheet"/>
     </head>
     <body>
